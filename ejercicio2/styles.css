@@ -1,0 +1,25 @@
+body{
+    text-align: center;    
+    border: 20px solid grey;
+    margin: 5px;
+    padding: 10px;
+}
+p{
+    margin: auto;
+    width: 400px;
+    /* border: 1px solid red; */
+}
+form{
+    display: inline-block;
+    width: 300px;
+    padding: 5px;
+    /* border: 1px solid red ; */
+    margin: auto;
+}
+input{
+       margin-bottom: 5px ;
+}
+.buttom{
+    border-radius: 5px;
+}
+

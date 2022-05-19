@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+    background: url(/html5.png);
+}
+div{
+    background-color: rgb(69, 69, 145) ;
+}
+span{
+    color: blueviolet;
+    background-color: black;
+}

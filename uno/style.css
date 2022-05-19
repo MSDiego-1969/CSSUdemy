@@ -1,0 +1,10 @@
+/* Fichero de estilos */
+h1{
+    color: green;
+}
+p{
+    color: orange ;
+}
+li{
+    color: rgba(50, 191, 209, 0.5);
+}
